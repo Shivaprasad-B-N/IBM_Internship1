@@ -1,1 +1,1 @@
-# IBM_Internship1
+# ibm_project
